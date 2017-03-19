@@ -1,0 +1,25 @@
+@font-face {
+    font-family: ProximanovaRegular; 
+    src: url(fonts/proximanova-regular.otf); 
+   }
+
+@font-face {
+    font-family: ProximanovaBold; 
+    src: url(fonts/proximanova-bold.otf); 
+   }
+
+@font-face {
+    font-family: Nautilus; 
+    src: url(fonts/Nautilus.otf); 
+   }
+
+@font-face {
+    font-family: MontserratBold; 
+    src: url(fonts/Montserrat-Bold.otf); 
+   }
+
+@font-face {
+    font-family: MontserratLight; 
+    src: url(fonts/Montserrat-Light.otf); 
+   }
+
